@@ -19,7 +19,7 @@ A Flask-based web application that implements OAuth 2.0 authentication flow with
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/souvik-09/OAuth-Flask-Application.git
 cd OAuth_flask
 ```
 
@@ -82,5 +82,4 @@ python oauth.py
 - OAuth tokens are handled securely and not exposed to the client
 - SSL verification is disabled for development purposes (verify=False). In production, proper SSL certificates should be used.
 
-## License
 
